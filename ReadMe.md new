@@ -1,0 +1,21 @@
+# [SDF05] CSS Magic Buttons
+
+The changes i made to the following buttons were simple yet fun to interact with.
+
+The first change i made was add my buttons: "button1, button2, button3
+I added a shorthand transition for btn1,btn2,btn3: "transition: all 0,5s ease-in-out"
+A background-image was added to get a color gradient: the "radial-gradient" i chose varient colors for each button 
+with padding,borders and border radius to eact button.
+With each button i added a hover button for animations and to be more attractive
+Box shadow was added
+transform scale was added 
+Animation was added 
+finally Keyframe animation was added to create a pulsating button. 
+
+I struggle with placement of putting information but got it right in the end i am particurly 
+proud of the animation i added and a bit of shadow i used for emphasis.
+
+
+
+
+
